@@ -1,5 +1,7 @@
 <h1 align="center">
-  <a href="https://matheussalesq.github.io/personal.finance/"><img alt="dev.finances" title="dev.finances" src="./assets/logo.png" width="220px" /></a>
+  <a href="https://matheussalesq.github.io/personal-finances/">
+    <img alt="personal.finances" title="personal.finances" src="./assets/logo.png" width="220px" />
+  </a>
 </h1>
 
 <p align="center">
